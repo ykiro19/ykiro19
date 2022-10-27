@@ -1,5 +1,5 @@
 
-##About Me:
+## About Me:
 - 🔭 I’m currently working on Discord and Teamspeak Bots
 - 🌱 I’m currently learning nodejs
 <!--
